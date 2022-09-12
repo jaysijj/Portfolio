@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/Portfolio_teste/static/css/main.4a157815.css",
-    "main.js": "/Portfolio_teste/static/js/main.0cba12b6.js",
+    "main.css": "/Portfolio_teste/static/css/main.195ed24d.css",
+    "main.js": "/Portfolio_teste/static/js/main.dd9754a9.js",
     "static/media/ArquiteturaJamy.png": "/Portfolio_teste/static/media/ArquiteturaJamy.6b21591649aa5b5ab48e.png",
     "static/media/ZeldaInstrument.png": "/Portfolio_teste/static/media/ZeldaInstrument.c6a8178ec8fe849a72f4.png",
-    "static/media/color-sharp2.png": "/Portfolio_teste/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/actionToy.png": "/Portfolio_teste/static/media/actionToy.e60a8e909623a5d5ab65.png",
+    "static/media/deserto01.png": "/Portfolio_teste/static/media/deserto01.9666bf441d7e8c82bcb8.png",
     "static/media/GryphGame2.png": "/Portfolio_teste/static/media/GryphGame2.cec3e9c9983677d48f35.png",
+    "static/media/Currículo-JaimeJaysi.pdf": "/Portfolio_teste/static/media/Currículo-JaimeJaysi.eaa61a376e1852a44b78.pdf",
+    "static/media/barba10.png": "/Portfolio_teste/static/media/barba10.ad7d50367fac50e232df.png",
     "static/media/deserto01.jpg": "/Portfolio_teste/static/media/deserto01.7e03cf2ee2d2ef15ed28.jpg",
     "static/media/CentraNo2-Bold.ttf": "/Portfolio_teste/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portfolio_teste/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio_teste/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/formulario-cadastro.png": "/Portfolio_teste/static/media/formulario-cadastro.2f1f18cb62149c8a89fb.png",
+    "static/media/graf80lar.png": "/Portfolio_teste/static/media/graf80lar.5a3278b7eb50f54282d6.png",
+    "static/media/graf90lar.png": "/Portfolio_teste/static/media/graf90lar.5b8b04eacfcc3ad2ec17.png",
+    "static/media/graf50lar.png": "/Portfolio_teste/static/media/graf50lar.49909af54b81f318cb27.png",
+    "static/media/graf75lar.png": "/Portfolio_teste/static/media/graf75lar.8f2450d2ac27555fa102.png",
+    "static/media/graf20lar.png": "/Portfolio_teste/static/media/graf20lar.2ed83301b3b835f4c2da.png",
     "static/media/revicons.eot": "/Portfolio_teste/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Portfolio_teste/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Portfolio_teste/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/meter2.svg": "/Portfolio_teste/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
-    "static/media/meter1.svg": "/Portfolio_teste/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
-    "static/media/meter3.svg": "/Portfolio_teste/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "index.html": "/Portfolio_teste/index.html",
-    "main.4a157815.css.map": "/Portfolio_teste/static/css/main.4a157815.css.map",
-    "main.0cba12b6.js.map": "/Portfolio_teste/static/js/main.0cba12b6.js.map"
+    "main.195ed24d.css.map": "/Portfolio_teste/static/css/main.195ed24d.css.map",
+    "main.dd9754a9.js.map": "/Portfolio_teste/static/js/main.dd9754a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a157815.css",
-    "static/js/main.0cba12b6.js"
+    "static/css/main.195ed24d.css",
+    "static/js/main.dd9754a9.js"
   ]
 }
