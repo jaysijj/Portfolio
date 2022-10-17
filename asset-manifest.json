@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio_teste/static/css/main.d5aacd2f.css",
-    "main.js": "/Portfolio_teste/static/js/main.681202f0.js",
+    "main.js": "/Portfolio_teste/static/js/main.5257462b.js",
     "static/media/ArquiteturaJamy.png": "/Portfolio_teste/static/media/ArquiteturaJamy.6b21591649aa5b5ab48e.png",
     "static/media/ZeldaInstrument.png": "/Portfolio_teste/static/media/ZeldaInstrument.c6a8178ec8fe849a72f4.png",
     "static/media/actionToy.png": "/Portfolio_teste/static/media/actionToy.e60a8e909623a5d5ab65.png",
     "static/media/remixicon.svg?t=1590207869815": "/Portfolio_teste/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/deserto01.png": "/Portfolio_teste/static/media/deserto01.9666bf441d7e8c82bcb8.png",
     "static/media/GryphGame2.png": "/Portfolio_teste/static/media/GryphGame2.cec3e9c9983677d48f35.png",
-    "static/media/Currículo-JaimeJaysi.pdf": "/Portfolio_teste/static/media/Currículo-JaimeJaysi.eaa61a376e1852a44b78.pdf",
+    "static/media/Currículo-JaimeJaysi.pdf": "/Portfolio_teste/static/media/Currículo-JaimeJaysi.0d91e9cd659112dc6972.pdf",
     "static/media/remixicon.eot?t=1590207869815": "/Portfolio_teste/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/Portfolio_teste/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/barba10.png": "/Portfolio_teste/static/media/barba10.ad7d50367fac50e232df.png",
@@ -31,10 +31,10 @@
     "static/media/revicons.woff": "/Portfolio_teste/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio_teste/index.html",
     "main.d5aacd2f.css.map": "/Portfolio_teste/static/css/main.d5aacd2f.css.map",
-    "main.681202f0.js.map": "/Portfolio_teste/static/js/main.681202f0.js.map"
+    "main.5257462b.js.map": "/Portfolio_teste/static/js/main.5257462b.js.map"
   },
   "entrypoints": [
     "static/css/main.d5aacd2f.css",
-    "static/js/main.681202f0.js"
+    "static/js/main.5257462b.js"
   ]
 }
