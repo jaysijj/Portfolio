@@ -3,7 +3,7 @@
   position: relative;
 }
 .skill-bx {
-  background: #151515;
+  background: rgba(231, 219, 192, 0.8);
   border-radius: 64px;
   text-align: center;
   padding: 60px 50px;
@@ -12,9 +12,13 @@
 .skill h2 {
 	font-size: 45px;
 	font-weight: 700;
+  color: #555555;
+}
+.skill .item h5{
+  color: #555555;
 }
 .skill p {
-    color: #B8B8B8;
+    color: #555555;
     font-size: 18px;
     letter-spacing: 0.8px;
     line-height: 1.5em;

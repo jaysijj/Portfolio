@@ -2,6 +2,18 @@ import './Skills.css'
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
 import { Col, Container, Row } from 'react-bootstrap'
+// import graf90 from '../../assets/img/graf90lar.png'
+//import graf85 from '../../assets/img/graf85lar.png'
+// import graf80 from '../../assets/img/graf80lar.png'
+// import graf75 from '../../assets/img/graf75lar.png'
+// import graf50 from '../../assets/img/graf50lar.png'
+// import graf20 from '../../assets/img/graf20lar.png'
+import scriptJava from '../../assets/img/script-java.png'
+import react from '../../assets/img/react.png'
+import html from '../../assets/img/html.png'
+import css3 from '../../assets/img/css-3.png'
+import python from '../../assets/img/python.png'
+import mysql from '../../assets/img/mysql.png'
 
 const Skills = () => {
   const responsive = {
@@ -13,7 +25,7 @@ const Skills = () => {
     desktop: {
       breakpoint: { max: 3000, min: 1024 },
       items: 3,
-      slidesToSlide: 3 // optional, default to 1.
+      slidesToSlide: 1 // optional, default to 1.
     },
     tablet: {
       breakpoint: { max: 1024, min: 464 },
@@ -25,36 +37,41 @@ const Skills = () => {
     }
   }
   return (
-    <section className="skill" id="skills">
+    <section className="skill">
       <Container>
         <Row>
           <Col>
-            <div className="skill-bx">
+            <div className="skill-bx" id="skills">
               <h2>Habilidades</h2>
-              <p>
-                O percentual abaixo tem como objetivo indicar qual linguagem eu
-                tenho mais domínio e qual mais utilizo no meu dia a dia.
-              </p>
+              <p></p>
               <Carousel
                 responsive={responsive}
                 infinite={true}
                 className="skill-slider"
               >
                 <div className="item">
-                  <img src="/assets/img/meter1.svg" alt="image1"></img>
+                  <img src={scriptJava} alt="image1"></img>
                   <h5>Javascript</h5>
                 </div>
                 <div className="item">
-                  <img src="/assets/img/meter2.svg" alt="image2"></img>
+                  <img src={react} alt="image2"></img>
+                  <h5>React</h5>
+                </div>
+                <div className="item">
+                  <img src={html} alt="image3"></img>
                   <h5>HTML</h5>
                 </div>
                 <div className="item">
-                  <img src="/assets/img/meter3.svg" alt="image3"></img>
+                  <img src={css3} alt="image4"></img>
                   <h5>CSS</h5>
                 </div>
                 <div className="item">
-                  <img src="/assets/img/meter1.svg" alt="image4"></img>
+                  <img src={python} alt="image4"></img>
                   <h5>Python</h5>
+                </div>
+                <div className="item">
+                  <img src={mysql} alt="image4"></img>
+                  <h5>MySQL</h5>
                 </div>
               </Carousel>
             </div>

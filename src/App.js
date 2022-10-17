@@ -3,6 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import Banner from './components/Banner'
 import Skills from './components/Skills'
 import Project from './components/Project'
+import Footer from './components/Footer'
+import Qualification from './components/Qualification'
 
 function App() {
   return (
@@ -10,7 +12,9 @@ function App() {
       <NavBar />
       <Banner />
       <Skills />
+      <Qualification />
       <Project />
+      <Footer />
     </>
   )
 }

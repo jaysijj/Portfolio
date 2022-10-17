@@ -1,0 +1,32 @@
+.footer {
+  padding: 35px 0;
+  margin-bottom: 0;
+  background-image: url('../../../public/imagens/deserto01.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  
+}
+.footer h1, .footer .col p{
+  color: rgb(59, 57, 57);
+  text-transform: uppercase;
+}
+.footer img {
+  width: 26%;
+}
+
+.footer .social-icon a{
+  border-color: rgb(59, 57, 57);
+}
+
+.itemsFooter .col:first-child{
+  display: flex;
+  align-items: center;
+}
+.footer p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #B8B8B8;
+  letter-spacing: 0.5px;
+  margin-top: 20px;
+}

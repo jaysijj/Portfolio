@@ -1,39 +1,53 @@
 import { Col, Container, Nav, Row, Tab } from 'react-bootstrap'
 import ProjectCard from '../ProjectCard'
 import './Project.css'
+import projectImg1 from '../../assets/img/ArquiteturaJamy.png'
+import projectImg2 from '../../assets/img/actionToy.png'
+import projectImg3 from '../../assets/img/ZeldaInstrument.png'
+import projectImg4 from '../../assets/img/formulario-cadastro.png'
+import projectImg5 from '../../assets/img/GryphGame2.png'
 
 const Project = () => {
   const projects = [
     {
-      title: 'Zelda instrumentos 1',
-      description: 'Animações e manipulação do DOM',
-      imgUrl: '/assets/img/project-img1.png'
+      title: 'Site Arquitetura',
+      description: 'Criação de um site sem uso de bibliotecas',
+      imgUrl: projectImg1,
+      link: 'https://jaysijj.github.io/site-arquitetura/'
     },
     {
-      title: 'Zelda instrumentos 2',
-      description: 'Animações e manipulação do DOM',
-      imgUrl: '/assets/img/project-img1.png'
-    },
-    {
-      title: 'Zelda instrumentos 3',
-      description: 'Animações e manipulação do DOM',
-      imgUrl: '/assets/img/project-img1.png'
-    },
-    {
-      title: 'Zelda instrumentos 4',
-      description: 'Animações e manipulação do DOM',
-      imgUrl: '/assets/img/project-img1.png'
+      title: 'Carrinho de E-commerce',
+      description:
+        'Loja virtual que disponibiliza um carrinho para armazenar produtos e efetuar compras',
+      imgUrl: projectImg2,
+      link: 'https://action-toy.vercel.app/'
     },
     {
       title: 'Zelda instrumentos',
-      description: 'Animações e manipulação do DOM',
-      imgUrl: '/assets/img/project-img1.png'
+      description:
+        'Animações e manipulação do DOM. Pressione os botões para tocar notas musicais.',
+      imgUrl: projectImg3,
+      link: 'https://jaysijj.github.io/zelda_instrument/'
     },
     {
-      title: 'Zelda instrumentos',
-      description: 'Animações e manipulação do DOM',
-      imgUrl: '/assets/img/project-img1.png'
+      title: 'Formulário Cadastro',
+      description: 'Filtra os dados e separa em um objeto',
+      imgUrl: projectImg4,
+      link: 'https://jaysijj.github.io/Formulario_cadastro/'
+    },
+    {
+      title: 'GryphGame',
+      description: 'Jogo feito em JS',
+      imgUrl: projectImg5,
+      link: 'https://jaysijj.github.io/Gryph-game/'
     }
+    // ,
+    // {
+    //   title: 'Zelda instrumentos',
+    //   description: 'Animações e manipulação do DOM',
+    //   imgUrl: projectImg3,
+    //   link: 'https://jaysijj.github.io/zelda_instrument/'
+    // }
   ]
 
   return (
@@ -43,21 +57,21 @@ const Project = () => {
           <Col size={12}>
             <h2>Projetos</h2>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Estou seguindo o plano de estudo do grupo boticário na Alura, onde
+              tenho consolidado alguns conhecimentos em JS, HTML, CSS, React,
+              MySQL, Node.JS e venho aplicando esse aprendizado diariamente com
+              novos projetos.
             </p>
             <Tab.Container id="projects-tabs" defaultActiveKey="first">
               <Nav variant="pills" defaultActiveKey="/home">
                 <Nav.Item>
-                  <Nav.Link eventKey="first">Option 1</Nav.Link>
+                  <Nav.Link eventKey="first">Projetos 1</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="second">Option 2</Nav.Link>
+                  <Nav.Link eventKey="second">Projetos 2</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="third">Option 3</Nav.Link>
+                  <Nav.Link eventKey="third">Projetos 3</Nav.Link>
                 </Nav.Item>
               </Nav>
               <Tab.Content>
@@ -68,18 +82,13 @@ const Project = () => {
                     })}
                   </Row>
                 </Tab.Pane>
-                <Tab.Pane eventKey="second">Segundo</Tab.Pane>
-                <Tab.Pane eventKey="third">Terceiro</Tab.Pane>
+                <Tab.Pane eventKey="second"></Tab.Pane>
+                <Tab.Pane eventKey="third"></Tab.Pane>
               </Tab.Content>
             </Tab.Container>
           </Col>
         </Row>
       </Container>
-      <img
-        src="/assets/img/color-sharp2.png"
-        alt=""
-        className="background-image-right"
-      ></img>
     </section>
   )
 }

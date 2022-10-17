@@ -1,18 +1,29 @@
 .banner {
   width: 100%;
   height: 100%;
-  padding: 260px 0 100px 0;
-  background-image: url('../../../public/imagens/deserto01.jpg');
+  padding: 260px 0 200px 0;
+  background-image: url('../../../public/imagens/deserto01.png');
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+.banner .container{
+  color: black;
+}
+.banner .container p{
+  color: black;
+}
+.container .row .col-12:first-child{
+  border-radius: 5px;
 }
 
 .banner .tagline {
   font-weight: 700;
   letter-spacing: 0.8px;
   padding: 8px 10px;
-  background: linear-gradient(90.21deg, rgba(170, 81, 54, 0.5) -5.91%, rgba(184, 189, 47, 0.5) 111.58%);
+  /* background: linear-gradient(90.21deg, rgba(170, 81, 54, 0.5) -5.91%, rgba(184, 189, 47, 0.5) 111.58%); */
+  background:  rgba(170, 81, 54, 0.5);
+  border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.5);
   font-size: 20px;
   margin-bottom: 16px;
@@ -43,17 +54,13 @@ justify-content: center;
 .jay img{
   animation: movimentar 5s linear infinite;
   transform: translateX(0px);
+  
 }
 
 .banner .row{
   max-width: 100%;
 }
-.banner .col:nth-child(1){
-background-color: red;}
-.banner .col:nth-child(2){
-  width: 20%;
-  background-color: blue;
-}
+
 
 @keyframes movimentar{
   0% {

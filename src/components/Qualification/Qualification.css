@@ -1,0 +1,88 @@
+.qualification{
+  padding: 100px 0;
+}
+.section__title, .section__subtitle{
+  text-align: center;
+}
+.section__title{
+  font-size: 45px;
+  font-weight: 700;
+  color: #555555;
+}
+.section__subtitle{
+  margin-bottom: 50px;
+  display: block;
+  color: #555555;
+}
+.qualification{
+  position: relative;
+}
+
+.qualification__container{
+  row-gap: 3.5rem;
+  column-gap: 50px;
+  margin: auto;
+}
+
+.qualification__title{
+  color: #555555;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 0.5rem;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 3rem;
+
+}
+
+.qualification__title i{
+  font-size: 1.55rem;
+  font-weight: initial;
+}
+
+.qualification__info{
+  display: grid;
+  row-gap: 2rem;
+}
+
+.qualification__name{
+  color: #555555;
+  font-size: 25px;
+  margin-bottom: 1.25rem;
+}
+
+.qualification__country, .qualification__year{
+  display: block;
+  font-size: 18px;
+  color: #7c7b7b;
+}
+.qualification__year{
+  margin-bottom: 0.65rem;
+}
+.formation__year{
+  margin-bottom:0;
+}
+.qualification__comment{
+  margin-top: 1.75rem;
+  color: #7c7b7b;
+}
+.qualification__country{
+  /* margin-bottom: 0.75rem; */
+}
+
+.qualification__img{
+  width: 150px;
+  position: absolute;
+  right: -3rem;
+  opacity: 0.1;
+}
+
+
+
+
+.qualification__img{
+  width: 100vw;
+  left: 0;
+  bottom: 0;
+}
