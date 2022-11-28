@@ -7,6 +7,6 @@
 - HTML;
 - CSS.
 
-Clique para acesso: https://jaysijj.github.io/Portfolio_teste/
+Clique para acesso: https://jaysijj.github.io/Portfolio/
 
 <img src="./src/assets/img/front-portfolio.png"/>

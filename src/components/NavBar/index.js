@@ -106,7 +106,7 @@ const NavBar = () => {
                 ></img>
               </a>
               <a
-                href="jaimejaysi@gmail.com"
+                href="mailto:jaimejaysi@gmail.com"
                 className={scrolled ? 'scrolled' : ''}
               >
                 <img

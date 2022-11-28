@@ -20,7 +20,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/jaime-jaysi/">
                 <img src={navIcon2} alt="" />
               </a>
-              <a href="jaimejaysi@gmail.com">
+              <a href="mailto:jaimejaysi@gmail.com">
                 <img src={navIcon3} alt="" />
               </a>
             </div>
