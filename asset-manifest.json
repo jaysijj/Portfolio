@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.cc4ab74f.css",
-    "main.js": "/Portfolio/static/js/main.6fbb8643.js",
+    "main.js": "/Portfolio/static/js/main.07aa36d7.js",
     "static/media/ArquiteturaJamy.png": "/Portfolio/static/media/ArquiteturaJamy.6b21591649aa5b5ab48e.png",
     "static/media/ZeldaInstrument.png": "/Portfolio/static/media/ZeldaInstrument.c6a8178ec8fe849a72f4.png",
     "static/media/actionToy.png": "/Portfolio/static/media/actionToy.e60a8e909623a5d5ab65.png",
@@ -31,10 +31,10 @@
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
     "main.cc4ab74f.css.map": "/Portfolio/static/css/main.cc4ab74f.css.map",
-    "main.6fbb8643.js.map": "/Portfolio/static/js/main.6fbb8643.js.map"
+    "main.07aa36d7.js.map": "/Portfolio/static/js/main.07aa36d7.js.map"
   },
   "entrypoints": [
     "static/css/main.cc4ab74f.css",
-    "static/js/main.6fbb8643.js"
+    "static/js/main.07aa36d7.js"
   ]
 }
