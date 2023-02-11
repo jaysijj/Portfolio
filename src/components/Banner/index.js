@@ -22,10 +22,9 @@ const Banner = () => {
               Engenheiro metalúrgico formado pela UFC e estudante de Análise e
               Desenvolvimento de Sistemas pela Unichristus. Migrei para a área
               de tecnologia pois sou apaixonado por desenvolvimento e inovação.
-              Busco me desenvolver constantemente, completei o Bootcamp MRV
-              Fullstack Developer, estou participando do Programa Desenvolve
-              2022 do Grupo Boticário e sou membro do grupo de Programação
-              Competitiva da Unichristus.
+              Busco me desenvolver constantemente. Finalizei o Bootcamp MRV
+              Fullstack Developer, participei do Programa Desenvolve 2022 do Grupo Boticário e
+              atualmente sou membro do grupo de Programação Competitiva da Unichristus.
             </p>
           </Col>
         </Row>
