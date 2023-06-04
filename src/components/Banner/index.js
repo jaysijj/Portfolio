@@ -19,12 +19,10 @@ const Banner = () => {
               </span>
             </h1>
             <p>
-              Engenheiro metalúrgico formado pela UFC e estudante de Análise e
-              Desenvolvimento de Sistemas pela Unichristus. Migrei para a área
-              de tecnologia pois sou apaixonado por desenvolvimento e inovação.
-              Busco me desenvolver constantemente. Finalizei o Bootcamp MRV
-              Fullstack Developer, participei do Programa Desenvolve 2022 do Grupo Boticário e
-              atualmente sou membro do grupo de Programação Competitiva da Unichristus.
+            Atuo como Desenvolvedor Full-Stack desde dezembro de 2021, direciono meu foco de desenvolvimento em tecnologias
+como JavaScript, Python, TypeScript, React, NodeJS, HTML, CSS dentre outras que uso para criar aplicações
+web/mobile de código limpo, escalável e bem documentado. Tenho familiaridade com metodologias ágeis e trabalho
+em equipes multidisciplinares. Tenho conhecimentos avançados em inglês e sou capaz de me comunicar no idioma.
             </p>
           </Col>
         </Row>

@@ -34,10 +34,32 @@ const Qualification = () => {
                 </span>
               </div>
             </div>
+
+            <h3 className='qualification__title'>
+              <i class="ri-pencil-ruler-2-line experiencia_profissional"></i>Experiência profissional
+            </h3>
+            <div className="qualification__info">
+            <div>
+                <h3 className="qualification__name">
+                  Técnico de Gestão de Dados
+                </h3>
+                <span className="qualification__country">Supermercado Araripe</span>
+                <span className="qualification__year formation__year">
+                  2023-atualmente
+                </span>
+                <span className="qualification__comment">
+                  Responsável por gerenciar informações relacionadas às operações do supermercado, incluindo dados de vendas,
+                  estoque, compras, clientes, entre outros. Como principal resultado, consegui solucionar problemas de carga de preços que estavam impactando
+                  negativamente os pontos de venda (PDV), melhorei a precisão e a consistência das informações nos pontos
+                  de venda, resultando em satisfação dos clientes e melhoria geral no desempenho dos PDVs do
+                  supermercado.
+                </span>
+              </div>
+            </div>
           </Col>
           <Col xs={12} md={5} xl={5} className="qualification__content">
             <h2 className="qualification__title">
-              <i class="ri-book-read-line"></i>Experiência
+              <i class="ri-book-read-line"></i>Treinamentos
             </h2>
             <div className="qualification__info">
               <div>
@@ -49,8 +71,10 @@ const Qualification = () => {
                   Setembro 2022 - atualmente
                 </span>
                 <span className="qualification__comment">
-                  Grupo de estudo com foco em programação para competições. A
-                  linguagem principal utilizada nos encontros é Python.
+                É um Grupo de Treinamento de Competições de Programação em Python, envolvendo competições internas e
+                resoluções de problemas utilizando "Beecrowd". Aqui eu aprimoro minhas habilidades constantemente, enfrentando
+                desafios complexos e desenvolvendo soluções eficientes, demonstrando capacidade de análise, raciocínio lógico e
+                habilidades algorítmicas para resolução de problemas de programação.
                 </span>
               </div>
               <div>
