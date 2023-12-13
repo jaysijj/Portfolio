@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e9e9bc25.css",
-    "main.js": "/Portfolio/static/js/main.10d564f9.js",
+    "main.css": "/Portfolio/static/css/main.cf84b20b.css",
+    "main.js": "/Portfolio/static/js/main.146a0c85.js",
     "static/media/ArquiteturaJamy.png": "/Portfolio/static/media/ArquiteturaJamy.6b21591649aa5b5ab48e.png",
     "static/media/ZeldaInstrument.png": "/Portfolio/static/media/ZeldaInstrument.c6a8178ec8fe849a72f4.png",
+    "static/media/Pokedex.png": "/Portfolio/static/media/Pokedex.f23edd6ac4bd7d63eb78.png",
     "static/media/actionToy.png": "/Portfolio/static/media/actionToy.e60a8e909623a5d5ab65.png",
     "static/media/remixicon.svg?t=1590207869815": "/Portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/deserto01.png": "/Portfolio/static/media/deserto01.9666bf441d7e8c82bcb8.png",
     "static/media/GryphGame2.png": "/Portfolio/static/media/GryphGame2.cec3e9c9983677d48f35.png",
+    "static/media/nattyFit.png": "/Portfolio/static/media/nattyFit.e978e5a987d81dd60981.png",
+    "static/media/pomodoro.png": "/Portfolio/static/media/pomodoro.35dd8cc3e890b1a13601.png",
     "static/media/remixicon.eot?t=1590207869815": "/Portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/Portfolio/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/alocacaoAcademica.png": "/Portfolio/static/media/alocacaoAcademica.88b1cd63b32d0692632d.png",
-    "static/media/nattyFit.png": "/Portfolio/static/media/nattyFit.f809c43e64bdcf286205.png",
     "static/media/barba10.png": "/Portfolio/static/media/barba10.ad7d50367fac50e232df.png",
     "static/media/remixicon.woff?t=1590207869815": "/Portfolio/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/desert.png": "/Portfolio/static/media/desert.d9744c29fb0f1727d327.png",
@@ -32,11 +34,11 @@
     "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
-    "main.e9e9bc25.css.map": "/Portfolio/static/css/main.e9e9bc25.css.map",
-    "main.10d564f9.js.map": "/Portfolio/static/js/main.10d564f9.js.map"
+    "main.cf84b20b.css.map": "/Portfolio/static/css/main.cf84b20b.css.map",
+    "main.146a0c85.js.map": "/Portfolio/static/js/main.146a0c85.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9e9bc25.css",
-    "static/js/main.10d564f9.js"
+    "static/css/main.cf84b20b.css",
+    "static/js/main.146a0c85.js"
   ]
 }
