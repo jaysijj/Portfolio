@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.cf84b20b.css",
-    "main.js": "/Portfolio/static/js/main.79e02c2f.js",
+    "main.css": "/Portfolio/static/css/main.56c24932.css",
+    "main.js": "/Portfolio/static/js/main.1bb19edf.js",
     "static/media/ArquiteturaJamy.png": "/Portfolio/static/media/ArquiteturaJamy.6b21591649aa5b5ab48e.png",
     "static/media/ZeldaInstrument.png": "/Portfolio/static/media/ZeldaInstrument.c6a8178ec8fe849a72f4.png",
     "static/media/Pokedex.png": "/Portfolio/static/media/Pokedex.f23edd6ac4bd7d63eb78.png",
@@ -24,7 +24,7 @@
     "static/media/CentraNo2-Book.ttf": "/Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/formulario-cadastro.png": "/Portfolio/static/media/formulario-cadastro.2f1f18cb62149c8a89fb.png",
     "static/media/react.png": "/Portfolio/static/media/react.28ed102edfe7c0c78b0e.png",
-    "static/media/Currículo-JaimeJaysi.pdf": "/Portfolio/static/media/Currículo-JaimeJaysi.01d6acb0bdba406e66c6.pdf",
+    "static/media/Currículo-JaimeJaysi.pdf": "/Portfolio/static/media/Currículo-JaimeJaysi.203beba8e5e26818dd02.pdf",
     "static/media/nodejs.png": "/Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/mysql.png": "/Portfolio/static/media/mysql.4610cbabbff468ff8ae3.png",
     "static/media/python.png": "/Portfolio/static/media/python.07a98139a3638f2a224b.png",
@@ -37,11 +37,11 @@
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/typescript.svg": "/Portfolio/static/media/typescript.c0eb7115ca99c9b18ba0baf90f610f7d.svg",
     "index.html": "/Portfolio/index.html",
-    "main.cf84b20b.css.map": "/Portfolio/static/css/main.cf84b20b.css.map",
-    "main.79e02c2f.js.map": "/Portfolio/static/js/main.79e02c2f.js.map"
+    "main.56c24932.css.map": "/Portfolio/static/css/main.56c24932.css.map",
+    "main.1bb19edf.js.map": "/Portfolio/static/js/main.1bb19edf.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf84b20b.css",
-    "static/js/main.79e02c2f.js"
+    "static/css/main.56c24932.css",
+    "static/js/main.1bb19edf.js"
   ]
 }
