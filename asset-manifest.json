@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f73db827.css",
-    "main.js": "/Portfolio/static/js/main.41480523.js",
+    "main.css": "/Portfolio/static/css/main.26ed5538.css",
+    "main.js": "/Portfolio/static/js/main.e62ed302.js",
     "static/media/ArquiteturaJamy.png": "/Portfolio/static/media/ArquiteturaJamy.6b21591649aa5b5ab48e.png",
     "static/media/ZeldaInstrument.png": "/Portfolio/static/media/ZeldaInstrument.c6a8178ec8fe849a72f4.png",
     "static/media/Pokedex.png": "/Portfolio/static/media/Pokedex.f23edd6ac4bd7d63eb78.png",
@@ -37,11 +37,11 @@
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/typescript.svg": "/Portfolio/static/media/typescript.c0eb7115ca99c9b18ba0baf90f610f7d.svg",
     "index.html": "/Portfolio/index.html",
-    "main.f73db827.css.map": "/Portfolio/static/css/main.f73db827.css.map",
-    "main.41480523.js.map": "/Portfolio/static/js/main.41480523.js.map"
+    "main.26ed5538.css.map": "/Portfolio/static/css/main.26ed5538.css.map",
+    "main.e62ed302.js.map": "/Portfolio/static/js/main.e62ed302.js.map"
   },
   "entrypoints": [
-    "static/css/main.f73db827.css",
-    "static/js/main.41480523.js"
+    "static/css/main.26ed5538.css",
+    "static/js/main.e62ed302.js"
   ]
 }
