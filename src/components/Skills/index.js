@@ -14,18 +14,21 @@ import html from '../../assets/img/html.png'
 import css3 from '../../assets/img/css-3.png'
 import python from '../../assets/img/python.png'
 import mysql from '../../assets/img/mysql.png'
+import django from '../../assets/img/django.png'
+import nodejs from '../../assets/img/nodejs.png'
+import typescript from '../../assets/img/typescript.svg'
+
 
 const Skills = () => {
   const responsive = {
     superLargeDesktop: {
-      // the naming can be any, depends on you.
       breakpoint: { max: 4000, min: 3000 },
       items: 5
     },
     desktop: {
       breakpoint: { max: 3000, min: 1024 },
       items: 3,
-      slidesToSlide: 1 // optional, default to 1.
+      slidesToSlide: 1
     },
     tablet: {
       breakpoint: { max: 1024, min: 464 },
@@ -37,7 +40,7 @@ const Skills = () => {
     }
   }
   return (
-    <section className="skill">
+    <section className="skill" data-aos="fade-right" data-aos-duration="1000">
       <Container>
         <Row>
           <Col>
@@ -66,8 +69,20 @@ const Skills = () => {
                   <h5>CSS</h5>
                 </div>
                 <div className="item">
+                  <img src={nodejs} alt="image4"></img>
+                  <h5>Node.JS</h5>
+                </div>
+                <div className="item">
                   <img src={python} alt="image4"></img>
                   <h5>Python</h5>
+                </div>
+                <div className="item">
+                  <img src={django} alt="image4"></img>
+                  <h5>Django</h5>
+                </div>
+                <div className="item">
+                  <img src={typescript} alt="image4"></img>
+                  <h5>TypeScript</h5>
                 </div>
                 <div className="item">
                   <img src={mysql} alt="image4"></img>

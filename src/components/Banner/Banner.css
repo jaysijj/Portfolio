@@ -54,7 +54,8 @@ justify-content: center;
 .jay img{
   animation: movimentar 5s linear infinite;
   transform: translateX(0px);
-  
+  width: 100%; 
+  object-fit: contain;
 }
 
 .banner .row{
