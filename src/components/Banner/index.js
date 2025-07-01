@@ -5,7 +5,6 @@ import sprite from '../../assets/img/barba10.png'
 const Banner = () => {
   return (
     <section className="banner" id="home">
-      {/*<img src="/assets/img/banner-bg.png" alt="banner"></img> */}
       <Container>
         <Row className="aligh-items-center">
           <Col className="jay" xs={12} md={6} xl={5}>
@@ -20,7 +19,7 @@ const Banner = () => {
             </h1>
             <p>
             Atuo como Desenvolvedor Full-Stack desde dezembro de 2021, direciono meu foco de desenvolvimento em tecnologias
-como JavaScript, Python, TypeScript, React, NodeJS, HTML, CSS dentre outras que uso para criar aplicações
+como JavaScript, Python, React, TypeScript, Django, NodeJS, HTML, CSS dentre outras que uso para criar aplicações
 web/mobile de código limpo, escalável e bem documentado. Tenho familiaridade com metodologias ágeis e trabalho
 em equipes multidisciplinares. Tenho conhecimentos avançados em inglês e sou capaz de me comunicar no idioma.
             </p>

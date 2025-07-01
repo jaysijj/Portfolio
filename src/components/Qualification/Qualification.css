@@ -1,8 +1,10 @@
 .qualification{
   padding: 100px 0;
+  position: relative;
 }
 .section__title, .section__subtitle{
   text-align: center;
+  margin: 0 5px;
 }
 .section__title{
   font-size: 45px;
@@ -14,10 +16,6 @@
   display: block;
   color: #555555;
 }
-.qualification{
-  position: relative;
-}
-
 .qualification__container{
   row-gap: 3.5rem;
   column-gap: 50px;
@@ -66,6 +64,11 @@
 }
 .qualification__comment{
   margin-top: 1.75rem;
+  color: #7c7b7b;
+}
+.qualification__comment__sep{
+  display: block;
+  margin-top: 0.55rem;
   color: #7c7b7b;
 }
 .qualification__country{
